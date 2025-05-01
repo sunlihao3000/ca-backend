@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+fastapi
+uvicorn[standard]
+transformers
+datasets      # optional (only for testing)
+torch         # installs Apple-Silicon wheels with MPS
+
